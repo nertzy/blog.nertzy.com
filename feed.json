@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://nertzy.micro.blog/2021/02/22/thanks-for-all.html",
+				
+				"content_html": "<p>Thanks for all the musique.</p>\n",
+				"content_text": "Thanks for all the musique.\n",
+				"date_published": "2021-02-22T23:39:35-06:00",
+				"url": "https://blog.nertzy.com/2021/02/22/thanks-for-all.html"
+			},
+			{
+				"id": "http://nertzy.micro.blog/2021/02/13/221922.html",
+				
+				"content_html": "<p><img src=\"uploads/2021/40e7543754.jpg\" alt=\"Cactus with icicles\" border=\"0\" width=\"450\" height=\"600\" /></p>\n",
+				"content_text": "<img src=\"uploads/2021/40e7543754.jpg\" alt=\"Cactus with icicles\" border=\"0\" width=\"450\" height=\"600\" />\n",
+				"date_published": "2021-02-13T22:19:22-06:00",
+				"url": "https://blog.nertzy.com/2021/02/13/221922.html",
+				"tags": ["Microblog","Image"]
+			},
+			{
+				"id": "http://nertzy.micro.blog/2021/02/13/i-just-used.html",
+				
+				"content_html": "<p>I just used <a href=\"https://hey.com\">Hey</a> to block someone from sending me an unsolicited Ruby on Rails job posting.</p>\n\n<p>So, thanks to <a href=\"https://basecamp.com\">Basecamp</a> for building: a technology that makes me attractive to recruiters; and a technology I can use to ignore them.</p>\n",
+				"content_text": "I just used [Hey](https://hey.com) to block someone from sending me an unsolicited Ruby on Rails job posting.\n\nSo, thanks to [Basecamp](https://basecamp.com) for building: a technology that makes me attractive to recruiters; and a technology I can use to ignore them.\n",
+				"date_published": "2021-02-13T22:11:52-06:00",
+				"url": "https://blog.nertzy.com/2021/02/13/i-just-used.html",
+				"tags": ["Microblog","Status"]
+			},
+			{
 				"id": "http://nertzy.micro.blog/2021/02/09/just-started-the.html",
 				
 				"content_html": "<p>Just started “The Mystic Maze” by Magic Puzzle Company</p>\n\n<p><img src=\"uploads/2021/96e51ed098.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
@@ -30,7 +56,8 @@
 				"content_html": "<p>I had fun today helping out the <a href=\"https://archiveteam.org\">Archive Team</a> with their quick-turnaround project to archive all of Parler. Good to get everything stored off somewhere for future historical analysis before it is shut off for good at midnight. Good riddance.</p>\n",
 				"content_text": "I had fun today helping out the [Archive Team](https://archiveteam.org) with their quick-turnaround project to archive all of Parler. Good to get everything stored off somewhere for future historical analysis before it is shut off for good at midnight. Good riddance.\n",
 				"date_published": "2021-01-10T22:07:17-06:00",
-				"url": "https://blog.nertzy.com/2021/01/10/i-had-fun.html"
+				"url": "https://blog.nertzy.com/2021/01/10/i-had-fun.html",
+				"tags": ["Microblog","Status"]
 			},
 			{
 				"id": "http://nertzy.micro.blog/2021/01/10/its-funny-how.html",
