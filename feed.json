@@ -45,7 +45,8 @@
 				"content_html": "<p>About to go get a haircut for the first time in months. 💇🏻‍♂️</p>\n",
 				"content_text": "About to go get a haircut for the first time in months. 💇🏻‍♂️\n",
 				"date_published": "2021-03-14T13:32:44-05:00",
-				"url": "https://blog.nertzy.com/2021/03/14/about-to-go.html"
+				"url": "https://blog.nertzy.com/2021/03/14/about-to-go.html",
+				"tags": ["Microblog","Status"]
 			},
 			{
 				"id": "http://nertzy.micro.blog/2021/02/22/thanks-for-all.html",
@@ -53,7 +54,8 @@
 				"content_html": "<p>Thanks for all the musique.</p>\n",
 				"content_text": "Thanks for all the musique.\n",
 				"date_published": "2021-02-23T00:39:35-05:00",
-				"url": "https://blog.nertzy.com/2021/02/22/thanks-for-all.html"
+				"url": "https://blog.nertzy.com/2021/02/22/thanks-for-all.html",
+				"tags": ["Microblog"]
 			},
 			{
 				"id": "http://nertzy.micro.blog/2021/02/13/221922.html",
