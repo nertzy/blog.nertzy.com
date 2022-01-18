@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://nertzy.micro.blog/2022/01/18/absurdle.html",
+				
+				"content_html": "<p><a href=\"https://qntm.org/files/wordle/index.html\">Absurdle</a> 6/∞</p>\n\n<p>⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜🟩⬜⬜\n🟩⬜🟩🟨⬜\n🟩⬜🟩🟩🟨\n🟩🟩🟩🟩🟩</p>\n",
+				"content_text": "[Absurdle](https://qntm.org/files/wordle/index.html) 6/∞\n\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜🟩⬜⬜\n🟩⬜🟩🟨⬜\n🟩⬜🟩🟩🟨\n🟩🟩🟩🟩🟩\n",
+				"date_published": "2022-01-18T12:08:36-06:00",
+				"url": "https://blog.nertzy.com/2022/01/18/absurdle.html"
+			},
+			{
 				"id": "http://nertzy.micro.blog/2022/01/06/i-just-released.html",
 				
 				"content_html": "<p>I just released <a href=\"https://rubygems.org/gems/pg_search/versions/2.3.6\">pg_search 2.3.6</a> and <a href=\"https://rubygems.org/gems/with_model/versions/2.1.6\">with_model 2.1.6</a>.</p>\n",
