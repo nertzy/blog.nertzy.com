@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://nertzy.micro.blog/2022/11/30/i-just-migrated.html",
+				
+				"content_html": "<p>I just migrated my Mastodon account to <a href=\"https://ruby.social/@nertzy\">nertzy@ruby.social</a>. For now I think I&rsquo;m going to try out keeping my <a href=\"https://micro.blog/nertzy\">micro.blog</a> and Mastodon feeds separate, but we&rsquo;ll see&hellip;</p>\n",
+				"content_text": "I just migrated my Mastodon account to [nertzy@ruby.social](https://ruby.social/@nertzy). For now I think I'm going to try out keeping my [micro.blog](https://micro.blog/nertzy) and Mastodon feeds separate, but we'll see&hellip;\n",
+				"date_published": "2022-11-30T18:54:11-06:00",
+				"url": "https://blog.nertzy.com/2022/11/30/i-just-migrated.html",
+				"tags": ["Microblog","Status"]
+			},
+			{
 				"id": "http://nertzy.micro.blog/2022/11/20/is-there-a.html",
 				
 				"content_html": "<p>Is there a paid service that I can point a DNS record to, and it hosts a private Mastodon instance for me?</p>\n\n<p>I’m feeling like that is closer to the future. My <a href=\"https://blog.nertzy.com\">micro.blog account</a> is partway there but not “full Mastodon”.</p>\n",
