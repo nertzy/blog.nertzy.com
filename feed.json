@@ -10,9 +10,10 @@
 				"id": "http://nertzy.micro.blog/2023/03/22/hanging-out-with.html",
 				
 				"content_html": "<p>Hanging out with Dolly Parton at the Aristocrat Lounge</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hanging out with Dolly Parton at the Aristocrat Lounge\n\n<img src=\"uploads/2023/8b5110892f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hanging out with Dolly Parton at the Aristocrat Lounge\n\n<img src=\"https://cdn.uploads.micro.blog/26284/2023/8b5110892f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-22T19:18:30-06:00",
-				"url": "https://blog.nertzy.com/2023/03/22/hanging-out-with.html"
+				"url": "https://blog.nertzy.com/2023/03/22/hanging-out-with.html",
+				"tags": ["Microblog","Status"]
 			},
 			{
 				"id": "http://nertzy.micro.blog/2023/03/10/gowalla.html",
@@ -20,13 +21,14 @@
 				"content_html": "<p>Gowalla!</p>\n",
 				"content_text": "Gowalla!\n",
 				"date_published": "2023-03-10T22:04:49-06:00",
-				"url": "https://blog.nertzy.com/2023/03/10/gowalla.html"
+				"url": "https://blog.nertzy.com/2023/03/10/gowalla.html",
+				"tags": ["Microblog","Status"]
 			},
 			{
 				"id": "http://nertzy.micro.blog/2023/01/08/one-of-the.html",
 				
 				"content_html": "<p>One of the many entertaining things about the <em>extremely</em> slow process for getting repaid for my long lost Mt. Gox Bitcoin holdings is the continued use of the original Mt. Gox logo, unchanged since the Web 2.0 era.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of the many entertaining things about the *extremely* slow process for getting repaid for my long lost Mt. Gox Bitcoin holdings is the continued use of the original Mt. Gox logo, unchanged since the Web 2.0 era.\n\n<img src=\"uploads/2023/10348eeb22.png\" alt=\"Screenshot of Mt. Gox claim filing system\" border=\"0\" width=\"615\" height=\"369\" />\n",
+				"content_text": "One of the many entertaining things about the *extremely* slow process for getting repaid for my long lost Mt. Gox Bitcoin holdings is the continued use of the original Mt. Gox logo, unchanged since the Web 2.0 era.\n\n<img src=\"https://cdn.uploads.micro.blog/26284/2023/10348eeb22.png\" alt=\"Screenshot of Mt. Gox claim filing system\" border=\"0\" width=\"615\" height=\"369\" />\n",
 				"date_published": "2023-01-08T18:12:02-06:00",
 				"url": "https://blog.nertzy.com/2023/01/08/one-of-the.html",
 				"tags": ["Microblog"]
@@ -71,7 +73,7 @@
 				"id": "http://nertzy.micro.blog/2022/12/17/got-some-prescription.html",
 				
 				"content_html": "<p>Got some prescription sunglasses for the first time in my life. Gonna take some getting used to. 😎</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Got some prescription sunglasses for the first time in my life. Gonna take some getting used to. 😎 \n\n<img src=\"uploads/2022/65b20241f2.jpg\" width=\"600\" height=\"600\" alt=\"Photo of Grant Hutchins indoors wearing new sunglasses\">\n",
+				"content_text": "Got some prescription sunglasses for the first time in my life. Gonna take some getting used to. 😎 \n\n<img src=\"https://cdn.uploads.micro.blog/26284/2022/65b20241f2.jpg\" width=\"600\" height=\"600\" alt=\"Photo of Grant Hutchins indoors wearing new sunglasses\">\n",
 				"date_published": "2022-12-17T13:16:12-06:00",
 				"url": "https://blog.nertzy.com/2022/12/17/got-some-prescription.html",
 				"tags": ["Microblog","Status","Image"]
@@ -83,7 +85,7 @@
 				"content_text": "Just watched [a video about Jotai](https://egghead.io/courses/manage-application-state-with-jotai-atoms-2c3a29f0), a minimal state management library my team uses with React. Pretty amazing to see a very full-featured drawing app created with not very much code.\n",
 				"date_published": "2022-12-16T10:41:24-06:00",
 				"url": "https://blog.nertzy.com/2022/12/16/just-watched-a.html",
-				"tags": ["Status","Watch"]
+				"tags": ["Microblog","Status","Watch"]
 			},
 			{
 				"id": "http://nertzy.micro.blog/2022/11/30/i-just-migrated.html",
@@ -143,7 +145,7 @@
 				"id": "http://nertzy.micro.blog/2022/10/14/phoenix-at-acl.html",
 				
 				"content_html": "<p>Phoenix at ACL Festival</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Phoenix at ACL Festival\n\n<img src=\"uploads/2022/af212454b2.jpg\" width=\"600\" height=\"600\" alt=\"Phoenix concert at Austin City Limits Festival 2022 weekend two\">\n",
+				"content_text": "Phoenix at ACL Festival\n\n<img src=\"https://cdn.uploads.micro.blog/26284/2022/af212454b2.jpg\" width=\"600\" height=\"600\" alt=\"Phoenix concert at Austin City Limits Festival 2022 weekend two\">\n",
 				"date_published": "2022-10-14T17:46:26-06:00",
 				"url": "https://blog.nertzy.com/2022/10/14/phoenix-at-acl.html",
 				"tags": ["Microblog","Status","Event"]
