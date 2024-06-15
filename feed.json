@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://nertzy.micro.blog/2024/06/15/im-in-dubai.html",
+				
+				"content_html": "<p>I’m in Dubai 🇦🇪 for a quick layover on my way to Bangalore 🇮🇳 for a work trip.</p>\n<p>Dubai has a silent airport. There are no announcements. But I did just hear a muezzin call playing for the daily dhuhr prayer.</p>\n",
+				"content_text": "I’m in Dubai 🇦🇪 for a quick layover on my way to Bangalore 🇮🇳 for a work trip.\n\nDubai has a silent airport. There are no announcements. But I did just hear a muezzin call playing for the daily dhuhr prayer.\n",
+				"date_published": "2024-06-15T03:29:50-05:00",
+				"url": "https://blog.nertzy.com/2024/06/15/im-in-dubai.html"
+			},
+			{
 				"id": "http://nertzy.micro.blog/2024/05/02/we-can-have.html",
 				"title": "We can have a different web",
 				"content_html": "<p><a href=\"https://www.citationneeded.news/we-can-have-a-different-web/\">We can have a different web</a>:</p>\n<blockquote>\n<p>Many yearn for the “good old days” of the web. We could have those good old days back — or something even better — and if anything, it would be easier now than it ever was.</p>\n</blockquote>\n",
