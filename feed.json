@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://nertzy.micro.blog/2024/08/11/after-years-ive.html",
+				
+				"content_html": "<p>After 2½ years, I&rsquo;ve released a small update to <a href=\"https://rubygems.org/gems/pg_search\">pg_search</a>. Version 2.3.7 adds support for Active Record 7.2 and various other small changes.</p>\n<p>I&rsquo;ll probably release another version soon to add support for <a href=\"https://guides.rubyonrails.org/active_record_composite_primary_keys.html?cmdf=active+record+compound+primary+keys\">composite primary keys</a>, a new Active Record 7.2 feature.</p>\n",
+				"content_text": "After 2½ years, I've released a small update to [pg_search](https://rubygems.org/gems/pg_search). Version 2.3.7 adds support for Active Record 7.2 and various other small changes.\n\nI'll probably release another version soon to add support for [composite primary keys](https://guides.rubyonrails.org/active_record_composite_primary_keys.html?cmdf=active+record+compound+primary+keys), a new Active Record 7.2 feature.\n",
+				"date_published": "2024-08-11T16:43:05-05:00",
+				"url": "https://blog.nertzy.com/2024/08/11/after-years-ive.html",
+				"tags": ["Microblog","Ruby"]
+			},
+			{
 				"id": "http://nertzy.micro.blog/2024/06/15/im-in-dubai.html",
 				
 				"content_html": "<p>I’m in Dubai 🇦🇪 for a quick layover on my way to Bangalore 🇮🇳 for a work trip.</p>\n<p>Dubai has a silent airport. There are no announcements. But I did just hear a muezzin call playing for the daily dhuhr prayer.</p>\n",
