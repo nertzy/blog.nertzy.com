@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://nertzy.micro.blog/2024/12/27/best-michelada-on-planet-earth.html",
+				
+				"content_html": "<p>Best michelada on planet Earth</p>\n<p>Hotel San José\nAustin, Texas</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Best michelada on planet Earth\n\nHotel San José\nAustin, Texas\n\n<img src=\"uploads/2024/804571c122.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-27T16:24:24-06:00",
+				"url": "https://blog.nertzy.com/2024/12/27/best-michelada-on-planet-earth.html"
+			},
+			{
+				"id": "http://nertzy.micro.blog/2024/12/24/feast-of-the-seven-fishes.html",
+				
+				"content_html": "<p>Feast of the Seven Fishes at L’Oca d’Oro. 🐟</p>\n<p>I definitely recommend a pour of their house Amaro Campanella to pair with dessert.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Feast of the Seven Fishes at L’Oca d’Oro. 🐟\n\nI definitely recommend a pour of their house Amaro Campanella to pair with dessert.\n\n<img src=\"uploads/2024/18bdaa314a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-12-24T21:17:23-06:00",
+				"url": "https://blog.nertzy.com/2024/12/24/feast-of-the-seven-fishes.html",
+				"tags": ["Microblog","Status","Food"]
+			},
+			{
 				"id": "http://nertzy.micro.blog/2024/12/21/just-switched-to.html",
 				
 				"content_html": "<p>Just switched to <a href=\"https://github.com/jdx/mise\">mise</a> (from <a href=\"https://github.com/asdf-vm/asdf\">asdf</a>) and liking it so far.</p>\n",
@@ -78,7 +95,7 @@
 				"id": "http://nertzy.micro.blog/2024/04/08/130303.html",
 				
 				"content_html": "<p>🌙</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🌙 \n\n<img src=\"uploads/2024/8e0bc66b32.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "🌙 \n\n<img src=\"https://cdn.uploads.micro.blog/26284/2024/8e0bc66b32.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-08T12:03:03-06:00",
 				"url": "https://blog.nertzy.com/2024/04/08/130303.html"
 			},
