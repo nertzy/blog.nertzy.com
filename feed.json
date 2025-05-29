@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://nertzy.micro.blog/2025/05/29/im-enjoying-listening-to-a.html",
+				
+				"content_html": "<p>I&rsquo;m enjoying listening to a conversation between two of my old colleagues from my New York days about building projects in today&rsquo;s world.</p>\n<p>Listen to the <a href=\"https://open.spotify.com/episode/7zLy1BrEpK7qQivhzoxKQa?si=403f4d7300e542d0\">first episode of the new More Makers podcast</a> by Steve Berry at Thought Merchants, interviewing Sam Coward about his Traffi project monitoring a dangerous New York City intersection with AI.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm enjoying listening to a conversation between two of my old colleagues from my New York days about building projects in today's world.\n\nListen to the [first episode of the new More Makers podcast](https://open.spotify.com/episode/7zLy1BrEpK7qQivhzoxKQa?si=403f4d7300e542d0) by Steve Berry at Thought Merchants, interviewing Sam Coward about his Traffi project monitoring a dangerous New York City intersection with AI.\n\n<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/episode/7zLy1BrEpK7qQivhzoxKQa?utm_source=generator\" width=\"100%\" height=\"352\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>\n",
+				"date_published": "2025-05-29T10:25:48-05:00",
+				"url": "https://blog.nertzy.com/2025/05/29/im-enjoying-listening-to-a.html",
+				"tags": ["Listen","Audio"]
+			},
+			{
 				"id": "http://nertzy.micro.blog/2025/05/13/just-went-to-my-first.html",
 				
 				"content_html": "<p>Just went to my first EFF-Austin meetup. <a href=\"https://micro.blog/manton\">@manton</a> spoke about micro.blog and we all had a lot of great conversations about social networks past, present, and future.</p>\n<!-- raw HTML omitted -->\n",
