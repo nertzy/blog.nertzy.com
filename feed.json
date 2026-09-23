@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://nertzy.micro.blog/2026/09/23/at-rails-world-here-in.html",
+				
+				"content_html": "<p>At Rails World 2026 here in Austin and <a href=\"https://x.com/dhh\">DHH</a> is getting back to his 2005 roots.</p>\n<p>“look at all the things I’m not doing!”</p>\n<p>#railsworld</p>\n<img src=\"uploads/2026/eabd0bbe-181e-4467-aa4e-cc7bc2cbe896.jpg\" width=\"600\" height=\"335\" alt=\"\">\n",
+				"content_text": "At Rails World 2026 here in Austin and [DHH](https://x.com/dhh) is getting back to his 2005 roots.\n\n“look at all the things I’m not doing!”\n\n#railsworld\n\n<img src=\"uploads/2026/eabd0bbe-181e-4467-aa4e-cc7bc2cbe896.jpg\" width=\"600\" height=\"335\" alt=\"\">\n",
+				"date_published": "2026-09-23T10:48:03-05:00",
+				"url": "https://blog.nertzy.com/2026/09/23/at-rails-world-here-in.html"
+			},
+			{
 				"id": "http://nertzy.micro.blog/2026/09/17/just-had-a-great-time.html",
 				
 				"content_html": "<p>Just had a great time and lots of good conversations at OpenCoffee Club here in Austin at Houndstooth Coffee in The Domain. Lots of kindred spirits both old and new.</p>\n",
