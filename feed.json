@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://nertzy.micro.blog/2026/09/28/having-a-nice-time-at.html",
+				
+				"content_html": "<p>Having a nice time at Rocky Mountain Ruby. Boulder is a beautiful city. 🏔️</p>\n<img src=\"uploads/2026/a0f11b8e-a11a-44cb-ae6a-78334c5cdfe1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Having a nice time at Rocky Mountain Ruby. Boulder is a beautiful city. 🏔️\n\n<img src=\"uploads/2026/a0f11b8e-a11a-44cb-ae6a-78334c5cdfe1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-09-28T16:27:02-05:00",
+				"url": "https://blog.nertzy.com/2026/09/28/having-a-nice-time-at.html"
+			},
+			{
 				"id": "http://nertzy.micro.blog/2026/09/23/at-rails-world-here-in.html",
 				
 				"content_html": "<p>At Rails World 2026 here in Austin and <a href=\"https://x.com/dhh\">DHH</a> is getting back to his 2005 roots.</p>\n<p>“look at all the things I’m not doing!”</p>\n<p>#railsworld</p>\n<img src=\"uploads/2026/eabd0bbe-181e-4467-aa4e-cc7bc2cbe896.jpg\" width=\"600\" height=\"335\" alt=\"\">\n",
